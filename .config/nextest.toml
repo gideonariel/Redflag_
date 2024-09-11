@@ -1,4 +1,4 @@
-[test-groups]
+   [test-groups]
 sequential-db-tests = { max-threads = 1 }
 
 [[profile.default.overrides]]
